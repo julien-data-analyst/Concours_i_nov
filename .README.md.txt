@@ -1,0 +1,9 @@
+Ce projet a pour but d'analyser et de proposer une interface graphique sur les projets retenus des concours i-nov (vague 1 à 10). 
+Il convient que chaque dossier (sauf Data) contient un ou plusieurs programmes développées sur les données scrapées des fichiers PDF. 
+Voici la liste des dossiers :
+- Analyse_Python : Analyse exploratoire des données scrapées
+- Scraping_R : Scraping de PDF via R avec l'utilisation de la librairie tabulatepdf
+- TDB_Power_BI : Création de Rapports/Tableau de bord sous le logiciel Power BI
+- Application_projets_concours : Carte interactive pour observer les différents projets
+
+Le dossier Data va contenir d'une part les fichiers PDF qui ont servi au Scraping et d'autre aux nouveaux fichiers de données qui sont utilisées partout.
